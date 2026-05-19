@@ -1,0 +1,12 @@
+{
+  "ceo": "qwen2.5-coder:1.5b-base",
+  "youtube": "qwen2.5:14b",
+  "instagram": "qwen2.5:14b",
+  "designer": "gemma4:e4b",
+  "developer": "qwen2.5-coder:1.5b-base",
+  "business": "qwen2.5:14b",
+  "secretary": "nomic-embed-text:latest",
+  "editor": "qwen2.5:14b",
+  "writer": "qwen2.5:14b",
+  "researcher": "qwen2.5:14b"
+}
